@@ -2,6 +2,7 @@
     "name": "artox-lab/clarc-skeleton",
     "description": "It is Symfony Flex application with Clean Architecture rules",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^7.1.3",
         "ext-ctype": "*",
