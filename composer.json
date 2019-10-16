@@ -57,6 +57,7 @@
             "@auto-scripts"
         ],
         "post-create-project-cmd": [
+            "rm -rf src/Controller/"
         ]
     },
     "conflict": {
